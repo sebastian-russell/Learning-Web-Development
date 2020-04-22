@@ -1,4 +1,2 @@
 # Learning-Web-Development
-Some of the practice sites I've made while learning HTML, CSS, Javascript, etc.
-
-Courses include freecodecamp.com, Web Developer Bootcamp (Udemy), etc.
+Some of the practice sites I've made while learning HTML, CSS, Javascript, etc. Courses include freecodecamp.com, Web Developer Bootcamp (Udemy), etc. I'd like to make sure to stress that the projects in this directory are <b>NOT</b> original projects. They have either been code-alongs, assignments with solutions later provided, etc. I do not claim that these as my original work. Just a collection of projects I've learned to code along the way.
